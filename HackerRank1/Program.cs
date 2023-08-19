@@ -21,6 +21,7 @@ class Result
     {
         string branch = "R11";
     }
+
     public static void minimumBribes(List<int> q)
     {
         int minb = 0;
