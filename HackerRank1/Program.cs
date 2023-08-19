@@ -17,6 +17,10 @@ using System.CodeDom;
 
 class Result
 {
+    public static void BranchPlay()
+    {
+        string branch = "R1";
+    }
     public static void minimumBribes(List<int> q)
     {
         int minb = 0;
